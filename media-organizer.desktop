@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Name=Media Organizer
-Comment=Organize your media files by date
-Exec=/home/darkainu/code/media-organizer/launch_media_organizer.sh
-Terminal=false
-Type=Application
-Categories=Utility;
-

@@ -1,14 +1,5 @@
-# Conda environment
-env/
-
-# Python cache files
+config.env
 __pycache__/
-*.py[cod]
-*$py.class
-
-# OS generated files
+*.pyc
+env/
 .DS_Store
-
-# Installer files
-Miniconda3-latest-Linux-x86_64.sh
-
